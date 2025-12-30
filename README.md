@@ -59,4 +59,5 @@ The dataset contains the following key columns:
 - `profit_margin`: Profit percentage per transaction
 - `total`: Calculated total sales (unit_price * quantity)
 
-
+## Author
+**Elakiya Balasubramani**
